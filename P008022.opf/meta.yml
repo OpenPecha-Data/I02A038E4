@@ -1,16 +1,17 @@
-id: opecha:P008022
+id: P008022
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016684
   title: སྤྲུལ་པའི་བསྟན་སྲུང་ཆེན་པོ་རྡོ་རྗེ་ཤུགས་ལྡན་རྩལ་ལས་འཕྲོས་པའི་རྩོད་ལན་ལེགས་བཤད་སྙིང་པོ
-  volume:
+  author: ''
+  volumes:
     09d42df76cb04535a9f75fc706d227f4:
       image_group_id: I1CZ5012
       title: Volume 1 of sprul pa'i bstan srung chen po rdo rje shugs ldan rtsal las
         'phros pa'i rtsod lan legs bshad snying po
       volume_number: 1
       total_pages: 356
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྤྲུལ་པའི་བསྟན་སྲུང་ཆེན་པོ་རྡོ་རྗེ་ཤུགས་ལྡན་རྩལ་ལས་འཕྲོས་པའི་རྩོད་ལན་ལེགས་བཤད་སྙིང་པོ
   author: ''
